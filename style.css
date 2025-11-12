@@ -4,6 +4,7 @@ body {
   color: #333;
   line-height: 1.6;
   margin: 0;
+  text-align: left;
 }
 
 header {
@@ -15,4 +16,9 @@ header {
 
 nav a:hover {
   color: #1abc9c;
+}
+
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
 }
