@@ -18,8 +18,3 @@ header {
 nav a:hover {
   color: #1abc9c;
 }
-
-p {
-  border: 2px solid powderblue;
-  padding: 30px;
-}
