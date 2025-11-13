@@ -104,4 +104,12 @@
   <h4>Contact</h4>
   <p>Email: s2212677@ed.ac.uk</p>
 </main>
+
+<script>
+function showTab(tabName) {
+  const tabs = document.querySelectorAll('.tab-content');
+  tabs.forEach(tab => tab.style.display = 'none'); // Hide all tabs
+  document.getElementById(tabName).style.display = 'block'; // Show selected
+}
+</script>
 </html>
