@@ -3,7 +3,7 @@ body {
   background: #f9f9f9;
   color: #333;
   line-height: 1.6;
-  margin: 2.5;
+  margin: 0;
   text-align: left;
 }
 
@@ -13,6 +13,10 @@ header {
   text-align: center;
   padding: 3rem 1rem;
   font-size: 35px;
+}
+
+main {
+  padding: 2rem;
 }
 
 nav a:hover {
