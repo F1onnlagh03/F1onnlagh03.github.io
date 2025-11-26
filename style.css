@@ -19,18 +19,16 @@ main {
   padding: 2rem;
 }
 
-nav a:hover {
-  display: flex;
-  color: #1abc9c;
-  justify-content: space-between;
-  width : 100%;
-}
-
 img {
   width: 150px;
   border-radius: 50%;
   display: block;
   margin: 1rem auto;
+}
+
+nav {
+  display: flex;
+  width: 100%;
 }
 
 nav .tab {
