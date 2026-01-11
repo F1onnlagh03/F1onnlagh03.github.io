@@ -19,15 +19,8 @@ main {
   padding: 2rem;
 }
 
-#about {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px;
-}
-
-#about img {
+img {
   width: 150px;
-  flex-shrink: 0;
 }
 
 nav {
