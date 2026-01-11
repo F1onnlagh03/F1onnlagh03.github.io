@@ -19,9 +19,13 @@ main {
   padding: 2rem;
 }
 
+div {
+  float: right;
+  padding: 15px;
+}
+
 img {
   width: 150px;
-  float: right;
 }
 
 nav {
