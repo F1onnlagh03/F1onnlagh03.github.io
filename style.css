@@ -19,13 +19,15 @@ main {
   padding: 2rem;
 }
 
-div {
-  float: right;
-  padding: 15px;
+#about {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
 }
 
-img {
+#about img {
   width: 150px;
+  flex-shrink: 0;
 }
 
 nav {
